@@ -98,7 +98,7 @@ The source for the React Native documentation and website is hosted on a separat
 
 ## 🚀 Upgrading
 
-Upgrading to new versions of React Native may give you access to more APIs, views, developer tools and other goodies. See the [Upgrading Guide][u] for instructions.
+Upgrading to new versions of React Native may give you access to more APIs, views, developer tools, and other goodies. See the [Upgrading Guide][u] for instructions.
 
 React Native releases are discussed in the React Native Community, [**@react-native-community/react-native-releases**][repo-releases].
 
@@ -107,7 +107,7 @@ React Native releases are discussed in the React Native Community, [**@react-nat
 
 ## 👏 How to Contribute
 
-The main purpose of this repository is to continue evolving React Native core. We want to make contributing to this project as easy and transparent as possible, and we are grateful to the community for contributing bugfixes and improvements. Read below to learn how you can take part in improving React Native.
+The main purpose of this repository is to continue evolving React Native core. We want to make contributing to this project as easy and transparent as possible, and we are grateful to the community for contributing bug fixes and improvements. Read below to learn how you can take part in improving React Native.
 
 ### [Code of Conduct][code]
 
