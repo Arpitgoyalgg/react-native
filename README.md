@@ -98,7 +98,7 @@ The source for the React Native documentation and website is hosted on a separat
 
 ## 🚀 Upgrading
 
-Upgrading to new versions of React Native may give you access to more APIs, views, developer tools, and other goodies. See the [Upgrading Guide][u] for instructions.
+Upgrading to new versions of React Native may give you access to more APIs, views, developer tools,and other goodies. See the [Upgrading Guide][u] for instructions.
 
 React Native releases are discussed in the React Native Community, [**@react-native-community/react-native-releases**][repo-releases].
 
